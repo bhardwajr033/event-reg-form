@@ -1,7 +1,12 @@
 import "./App.css";
+import RegForm from "./RegForm";
 
 function App() {
-  return <div></div>;
+  return (
+    <div>
+      <RegForm />
+    </div>
+  );
 }
 
 export default App;
