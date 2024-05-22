@@ -10,41 +10,44 @@ export const validateMessages = {
 };
 
 export const eventOptions = [
-  { label: "MERN Stack Development Bootcamp", value: "mern_bootcamp" },
+  {
+    label: "MERN Stack Development Bootcamp",
+    value: "MERN Stack Development Bootcamp",
+  },
   {
     label: "React and Node.js Integration Workshop",
-    value: "react_node_workshop",
+    value: "React and Node.js Integration Workshop",
   },
   {
     label: "Full-Stack JavaScript Conference",
-    value: "fullstack_js_conference",
+    value: "Full-Stack JavaScript Conference",
   },
   {
     label: "MongoDB Aggregation Framework Deep Dive",
-    value: "mongodb_aggregation_deepdive",
+    value: "MongoDB Aggregation Framework Deep Dive",
   },
   {
     label: "Express.js Middleware Mastery",
-    value: "express_middleware_mastery",
+    value: "Express.js Middleware Mastery",
   },
   {
     label: "Building Scalable Applications with MERN",
-    value: "scalable_apps_with_mern",
+    value: "Building Scalable Applications with MERN",
   },
   {
     label: "Real-time Web Apps with Socket.io and MERN",
-    value: "realtime_webapps_mern",
+    value: "Real-time Web Apps with Socket.io and MERN",
   },
   {
     label: "Advanced React Patterns for MERN Developers",
-    value: "advanced_react_patterns",
+    value: "Advanced React Patterns for MERN Developers",
   },
   {
     label: "API Development with Node.js and Express",
-    value: "api_dev_node_express",
+    value: "API Development with Node.js and Express",
   },
   {
     label: "State Management in React using Redux",
-    value: "react_redux_workshop",
+    value: "State Management in React using Redux",
   },
 ];
